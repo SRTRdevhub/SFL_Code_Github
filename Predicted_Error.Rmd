@@ -1,0 +1,309 @@
+---
+title: "Predicted error of survival from listing models"
+author: ""
+date: "Fall 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(survival)
+
+
+root <- file.path("SFL_Code_Github")
+
+
+### SAF information
+current_saf  <- "SAF1808"
+
+
+# Cohort definitions
+#   - 'cohort_start' and 'cohort_end': The period-prevalent cohort period for the survival from listing
+#   - 'max_followup': The maximum followup (in years) allowed
+cohort_start <- "20150701"
+cohort_end   <- "20170630"
+
+
+### Sourcing the appropriate information
+source(file.path(root, "WorkerFunctions", "estimate_c.R"))
+
+
+```
+
+
+
+## Kidney
+
+```{r ki_pred_error, include=FALSE}
+
+organ <- "Kidney"
+organ_ab <- "ki"
+
+
+
+C_mat  <- matrix(NA, nrow = 10, ncol = 10)
+
+for(m in 1:10){
+    
+  C_mat[m,1:2] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "coxph_constant")
+  
+  
+  C_mat[m,3:4] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_constant")
+  
+  
+  C_mat[m,5:6] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_varying")
+  
+  
+  C_mat[m,7:8] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_separate")
+  
+  
+  C_mat[m,9:10] <- estimate_c(root,
+                              organ,
+                              organ_ab,
+                              "adult",
+                              m,
+                              "gam_pem")
+
+}
+
+
+
+ki_C_mat <- matrix(apply(C_mat, 2, mean),
+                   byrow = TRUE,
+                   nrow = 5)
+
+ki_C_mat[c(1:2,5,3:4),]
+
+```
+
+
+
+
+## Liver
+
+```{r li_pred_error, include=FALSE}
+
+organ <- "Liver"
+organ_ab <- "li"
+
+
+
+C_mat  <- matrix(NA, nrow = 10, ncol = 10)
+
+for(m in 1:10){
+
+  C_mat[m,1:2] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "coxph_constant")
+  
+  
+  C_mat[m,3:4] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_constant")
+  
+  
+  C_mat[m,5:6] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_varying")
+  
+  
+  C_mat[m,7:8] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_separate")
+  
+  
+  C_mat[m,9:10] <- estimate_c(root,
+                              organ,
+                              organ_ab,
+                              "adult",
+                              m,
+                              "gam_pem")
+
+}
+
+
+
+li_C_mat <- matrix(apply(C_mat, 2, mean),
+                   byrow = TRUE,
+                   nrow = 5)
+
+li_C_mat[c(1:2,5,3:4),]
+
+
+```
+
+
+
+
+## Lung
+
+```{r lu_pred_error, include=FALSE}
+
+organ <- "Lung"
+organ_ab <- "lu"
+
+
+C_mat  <- matrix(NA, nrow = 10, ncol = 10)
+
+for(m in 1:10){
+  
+  C_mat[m,1:2] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "coxph_constant")
+  
+  
+  C_mat[m,3:4] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_constant")
+  
+  
+  C_mat[m,5:6] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_varying")
+  
+  
+  C_mat[m,7:8] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_separate")
+  
+  
+  C_mat[m,9:10] <- estimate_c(root,
+                              organ,
+                              organ_ab,
+                              "adult",
+                              m,
+                              "gam_pem")
+
+}
+
+
+
+lu_C_mat <- matrix(apply(C_mat, 2, mean),
+                   byrow = TRUE,
+                   nrow = 5)
+
+lu_C_mat[c(1:2,5,3:4),]
+
+
+```
+
+
+
+
+## Heart
+
+```{r lu_pred_error, include=FALSE}
+
+organ <- "Heart"
+organ_ab <- "hr"
+
+
+
+C_mat  <- matrix(NA, nrow = 10, ncol = 10)
+
+for(m in 1:10){
+    
+  C_mat[m,1:2] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "coxph_constant")
+  
+  
+  C_mat[m,3:4] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_constant")
+  
+  
+  C_mat[m,5:6] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_varying")
+  
+  
+  C_mat[m,7:8] <- estimate_c(root,
+                             organ,
+                             organ_ab,
+                             "adult",
+                             m,
+                             "piecewise_separate")
+  
+  
+  C_mat[m,9:10] <- estimate_c(root,
+                              organ,
+                              organ_ab,
+                              "adult",
+                              m,
+                              "gam_pem")
+
+}
+
+
+
+hr_C_mat <- matrix(apply(C_mat, 2, mean),
+                   byrow = TRUE,
+                   nrow = 5)
+
+hr_C_mat[c(1:2,5,3:4),]
+
+
+```
+
+
+
+
+
+
+

@@ -1,0 +1,325 @@
+TABLE LABEL,ORGAN,OPTN VARIABLE NAME,OPTN CODE
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY IDIOPATHIC,1000
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY ADRIAMYCIN,1001
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY POST PARTUM,1002
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY FAMILIAL,1003
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY MYOCARDITIS,1004
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY ALCOHOLIC,1005
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY VIRAL,1006
+Heart: Cardiomyopathy,HR,DILATED MYOPATHY OTHER SPECIFY,1049
+Heart: Cardiomyopathy,HR,RESTRICTIVE MYOPATHY IDIOPATHI,1050
+Heart: Cardiomyopathy,HR,RESTRICTIVE MYOPATHY AMYLOIDOS,1051
+Heart: Cardiomyopathy,HR,RESTRICTIVE MYOPATHY ENDOCARDI,1052
+Heart: Cardiomyopathy,HR,RESTRICTIVE MYOPATHY SARCOIDOS,1053
+Heart: Cardiomyopathy,HR,RESTRICTIVE MYOPATHY SEC TO RA,1054
+Heart: Cardiomyopathy,HR,RESTRICTIVE MYOPATHY OTHER SPE,1099
+Heart: Cardiomyopathy,HR,HYPERTROPHIC CARDIOMYOPATHY,1201
+Heart: Congenital Heart Disease,HR,CONGENITAL HEART DEFECT - PRIOR,1203
+Heart: Congenital Heart Disease,HR,CONGENITAL HEART DEFECT - HYPOP,1205
+Heart: Congenital Heart Disease,HR,CONGENITAL HEART DEFECT - WITHO,1206
+Heart: Congenital Heart Disease,HR,CONGENITAL HEART DEFECT - WITH,1207
+Heart: Coronary Artery Disease,HR,DILATED MYOPATHY ISCHEMIC,1007
+Heart: Coronary Artery Disease,HR,CORONARY ARTERY DISEASE,1200
+Heart: Other,HR,CANCER,1204
+Heart: Other,HR,CARDIAC DISEASE OTHER SPECIFY,1497
+Heart: Other,HR,HEART OTHER SPECIFY,1498
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF HYPERACUTE REJE,1100
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF ACUTE REJECTION,1101
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF CORONARY ARTERY,1102
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF NON-SPECIFIC,1103
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF RESTRICTIVE/CON,1104
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF CHRONIC REJECTI,1105
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF PRIMARY FAILURE,1106
+Heart: Retransplant/Graft Failure,HR,HEART RE-TX/GF OTHER SPECIFY,1199
+Heart: Valvular Heart Disease,HR,VALVULAR HEART DISEASE,1202
+Intestine: Functional Bowel Problem,FB,P NEURONAL INTESTINAL DYSPLASIA,6051
+Intestine: Functional Bowel Problem,FB,P PSEUDO-OBSTRUCTION-MYOPATHIC,6053
+Intestine: Functional Bowel Problem,FB,P MICROVILLOUS INCLUSION DISEAS,6055
+Intestine: Functional Bowel Problem,FB,P UNSPECIFIED,6099
+Intestine: Functional Bowel Problem,IN,FBP HIRSCHSPRUNG'S DISEASE,6050
+Intestine: Functional Bowel Problem,IN,FBP PSEUDO-OBSTRUCTION-NEUROPA,6052
+Intestine: Functional Bowel Problem,IN,FBP PROTEIN-LOSING ENTEROPATHY,6054
+Intestine: Functional Bowel Problem,IN,FBP OTHER SPECIFY,6098
+Intestine: Other,IN,INTESTINAL DISEASE OTHER SPECIF,6497
+Intestine: Retransplant/Graft Failure,IN,GRAFT FAILURE,6100
+Intestine: Retransplant/Graft Failure,RE,TRANSPLANT,6150
+Intestine: Short Gut Syndrome,IN,SGS INTESTINAL ATRESIA,6000
+Intestine: Short Gut Syndrome,IN,SGS INTESTINAL VOLVULUS SECOND,6002
+Intestine: Short Gut Syndrome,IN,SGS INTESTINAL VOLVULUS SECOND,6004
+Intestine: Short Gut Syndrome,IN,SGS MASS RESECT SEC TO INF BOW,6006
+Intestine: Short Gut Syndrome,IN,SGS MASSIVE RESECTION SECONDAR,6008
+Intestine: Short Gut Syndrome,IN,SGS OTHER SPECIFY,6048
+Intestine: Short Gut Syndrome,SG,S NECROTIZING ENTEROCOLITIS,6001
+Intestine: Short Gut Syndrome,SG,S INTESTINAL VOLVULUS SECONDARY,6003
+Intestine: Short Gut Syndrome,SG,S GASTROSCHISIS,6005
+Intestine: Short Gut Syndrome,SG,S MASS RESECT SEC TO TUMOR,6007
+Intestine: Short Gut Syndrome,SG,S MASS RESECT SEC TO MES VENOUS,6009
+Intestine: Short Gut Syndrome,SG,S UNSPECIFIED,6049
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,NEPHROPHTHISIS,3010
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,CYSTINOSIS,3014
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,FABRY'S DISEASE,3015
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,HYPOPLASIA/DYSPLASIA/DYSGENSIS/,3025
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,MEDULLARY CYSTIC DISEASE,3028
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,PRUNE BELLY SYNDROME,3036
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,CONGENITAL OBSTRUCTIVE UROPATHY,3052
+"Kidney: Congenital, Rare Familial, & Metabolic Disorders",KI,HEREDITARY OXALOSIS (PEDIATRIC,3065
+Kidney: Diabetes,KI,DIABETES - TYPE I INSULIN DEP/J,3011
+Kidney: Diabetes,KI,DIABETES - TYPE II NON-INSULIN,3012
+Kidney: Diabetes,KI,DIABETES - TYPE I NON-INSULIN D,3038
+Kidney: Diabetes,KI,DIABETES - TYPE II INSULIN DEP/,3039
+Kidney: Diabetes,KI,DIABETES MELLITUS - TYPE I,3069
+Kidney: Diabetes,KI,DIABETES MELLITUS - TYPE II,3070
+Kidney: Diabetes,KI,DIABETES MELLITUS - TYPE OTHER,3071
+Kidney: Glomerular Diseases,KI,IDIO/POST-INF CRESCENTIC GLOMER,3000
+Kidney: Glomerular Diseases,KI,MEMBRANOUS GLOMERULONEPHRITIS,3001
+Kidney: Glomerular Diseases,KI,MESANGIO-CAPILLARY 1 GLOMERULON,3002
+Kidney: Glomerular Diseases,KI,MESANGIO-CAPILLARY 2 GLOMERULON,3003
+Kidney: Glomerular Diseases,KI,IGA NEPHROPATHY,3004
+Kidney: Glomerular Diseases,KI,ANTI-GBM,3005
+Kidney: Glomerular Diseases,KI,FOCAL GLOMERULAR SCLEROSIS (FOC,3006
+Kidney: Glomerular Diseases,KI,AMYLOIDOSIS,3016
+Kidney: Glomerular Diseases,KI,SYSTEMIC LUPUS ERYTHEMATOSUS,3018
+Kidney: Glomerular Diseases,KI,HEMOLYTIC UREMIC SYNDROME,3024
+Kidney: Glomerular Diseases,KI,SICKLE CELL ANEMIA,3029
+Kidney: Glomerular Diseases,KI,ALPORT'S SYNDROME,3031
+Kidney: Glomerular Diseases,KI,GOODPASTURE'S SYNDROME,3033
+Kidney: Glomerular Diseases,KI,HENOCH-SCHOENLEIN PURPURA,3035
+Kidney: Glomerular Diseases,KI,CHRONIC GLOMERULONEPHRITIS UNSP,3041
+Kidney: Glomerular Diseases,KI,MEMBRANOUS NEPHROPATHY,3042
+Kidney: Glomerular Diseases,KI,CHRONIC GLOMERULOSCLEROSIS UNSP,3043
+Kidney: Glomerular Diseases,KI,WEGENERS GRANULOMATOSIS,3054
+Kidney: Glomerular Diseases,KI,THIN BASEMENT MEMBRANE DISEASE,3064
+Kidney: Glomerular Diseases,KI,FSG - FOCAL SEGMENTAL GLOMERULO,3067
+Kidney: Glomerular Diseases,KI,RAPID PROGRESSIVE GLOMERULONEPH,3068
+Kidney: Hypertensive Nephrosclerosis,KI,MALIGNANT HYPERTENSION,3034
+Kidney: Hypertensive Nephrosclerosis,KI,HYPERTENSIVE NEPHROSCLEROSIS,3040
+Kidney: Hypertensive Nephrosclerosis,KI,CHRONIC NEPHROSCLEROSIS-UNSPECI,3051
+Kidney: Neoplasms,KI,WILMS' TUMOR,3020
+Kidney: Neoplasms,KI,RENAL CELL CARCINOMA,3021
+Kidney: Neoplasms,KI,INCIDENTAL CARCINOMA,3022
+Kidney: Neoplasms,KI,MYELOMA,3023
+Kidney: Neoplasms,KI,LYMPHOMA,3058
+Kidney: Other,KI,FAMILIAL NEPHROPATHY,3032
+Kidney: Other,KI,RHEUMATOID ARTHRITIS,3056
+Kidney: Other,KI,DYSPLASIA,3061
+Kidney: Other,KI,PRE-BMTRANSPLANTATION TOTAL BOD,3062
+Kidney: Polycystic Kidneys,KI,POLYCYSTIC KIDNEYS,3008
+Kidney: Renovascular & Other Vascular Diseases,KI,PROGRESSIVE SYSTEMIC SCLEROSIS,3019
+Kidney: Renovascular & Other Vascular Diseases,KI,RENAL ARTERY THROMBOSIS,3050
+Kidney: Renovascular & Other Vascular Diseases,KI,SCLERODERMA,3053
+Kidney: Renovascular & Other Vascular Diseases,KI,POLYARTERITIS,3055
+Kidney: Renovascular & Other Vascular Diseases,KI,CHOLESTEROL EMBOLIZATION,3066
+Kidney: Retransplant/Graft Failure,KI,RETRANSPLANT/GRAFT FAILURE,3037
+Kidney: Tubular and Interstitial Diseases,KI,CHRONIC PYELONEPHRITIS/REFLUX N,3007
+Kidney: Tubular and Interstitial Diseases,KI,NEPHRITIS,3009
+Kidney: Tubular and Interstitial Diseases,KI,OXALATE NEPHROPATHY (INCLUDES H,3013
+Kidney: Tubular and Interstitial Diseases,KI,GOUT,3017
+Kidney: Tubular and Interstitial Diseases,KI,CORTICAL NECROSIS,3026
+Kidney: Tubular and Interstitial Diseases,KI,ACUTE TUBULAR NECROSIS,3027
+Kidney: Tubular and Interstitial Diseases,KI,ACQUIRED OBSTRUCTIVE NEPHROPATH,3030
+Kidney: Tubular and Interstitial Diseases,KI,ANALGESIC NEPHROPATHY,3044
+Kidney: Tubular and Interstitial Diseases,KI,RADIATION NEPHRITIS,3045
+Kidney: Tubular and Interstitial Diseases,KI,ANTIBIOTIC-INDUCED NEPHRITIS,3046
+Kidney: Tubular and Interstitial Diseases,KI,CANCER CHEMOTHERAPY INDUCED NEP,3047
+Kidney: Tubular and Interstitial Diseases,KI,CALCINEURIN INHIBITOR NEPHROTOX,3048
+Kidney: Tubular and Interstitial Diseases,KI,HEROIN NEPHROTOXICITY,3049
+Kidney: Tubular and Interstitial Diseases,KI,SARCOIDOSIS,3057
+Kidney: Tubular and Interstitial Diseases,KI,NEPHROLITHIASIS,3059
+Kidney: Tubular and Interstitial Diseases,KI,UROLITHIASIS,3060
+Kidney: Tubular and Interstitial Diseases,KI,DRUG RELATED INTERSTITIAL NEPHR,3063
+Liver : Acute Hepatic Necrosis,LI,AHN DRUG OTHER SPECIFY,4100
+Liver : Acute Hepatic Necrosis,LI,AHN TYPE A,4101
+Liver : Acute Hepatic Necrosis,LI,AHN TYPE B- HBSAG+,4102
+Liver : Acute Hepatic Necrosis,LI,AHN NON A- NON B,4103
+Liver : Acute Hepatic Necrosis,LI,AHN TYPE C,4104
+Liver : Acute Hepatic Necrosis,LI,AHN TYPE D,4105
+Liver : Acute Hepatic Necrosis,LI,AHN TYPE B AND C,4106
+Liver : Acute Hepatic Necrosis,LI,AHN TYPE B AND D,4107
+Liver : Acute Hepatic Necrosis,LI,AHN ETIOLOGY UNKNOWN,4108
+Liver : Acute Hepatic Necrosis,LI,"AHN OTHER, SPECIFY (E.G., ACUT",4110
+Liver : Acute Hepatic Necrosis,LI,ACUTE ALCOHOLIC HEPATITIS,4217
+Liver : Acute Hepatic Necrosis,LI,Hepatitis B Chronic or Acute,4592
+Liver : Acute Hepatic Necrosis,LI,Hepatitis C Chronic or Acute,4593
+Liver : Biliary Atresia,LI,BILIARY ATRESIA EXTRAHEPATIC,4270
+Liver : Biliary Atresia,LI,BILIARY HYPOPLASIA NONSYNDROMI,4271
+Liver : Biliary Atresia,LI,BILIARY HYPOPLASIA ALAGILLE’S,4272
+Liver : Biliary Atresia,LI,BILIARY ATRESIA OR HYPOPLASIA,4275
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,PRIMARY BILIARY CIRRHOSIS (PBC),4220
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,SEC BILIARY CIRRHOSIS CAROLI'S,4230
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,SEC BILIARY CIRRHOSIS CHOLEDOC,4231
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,SEC BILIARY CIRRHOSIS OTHER SP,4235
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,PSC CROHN'S DISEASE,4240
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,PSC ULCERATIVE COLITIS,4241
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,PSC NO BOWEL DISEASE,4242
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,PSC OTHER SPECIFY,4245
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,FAMILIAL CHOLESTASIS BYLER'S D,4250
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,FAMILIAL CHOLESTASIS OTHER SPE,4255
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,CHOLES LIVER DISEASE OTHER SPE,4260
+Liver : Cholestatic Liver Disease/Cirrhosis,LI,NEONATAL CHOLESTATIC LIVER DISE,4264
+Liver : Malignant Neoplasms,LI,PLM HEPATOMA - HEPATOCELLULAR,4400
+Liver : Malignant Neoplasms,LI,PLM HEPATOMA (HCC) AND CIRRHOS,4401
+Liver : Malignant Neoplasms,LI,PLM FIBROLAMELLAR (FL-HC),4402
+Liver : Malignant Neoplasms,LI,PLM CHOLANGIOCARCINOMA (CH-CA),4403
+Liver : Malignant Neoplasms,LI,PLM HEPATOBLASTOMA (HBL),4404
+Liver : Malignant Neoplasms,LI,"PLM HEMANGIOENDOTHELIOMA, HEMA",4405
+Liver : Malignant Neoplasms,LI,"PLM OTHER SPECIFY (I.E., KLATZ",4410
+Liver : Malignant Neoplasms,LI,"BILE DUCT CANCER (CHOLANGIOMA,",4420
+Liver : Malignant Neoplasms,LI,SECONDARY HEPATIC MALIGNANCY OT,4430
+Liver : Metabolic Diseases,LI,METDIS ALPHA-1-ANTITRYPSIN DEF,4300
+Liver : Metabolic Diseases,LI,"METDIS WILSON'S DISEASE, OTHER",4301
+Liver : Metabolic Diseases,LI,METDIS HEMOCHROMATOSIS - HEMOS,4302
+Liver : Metabolic Diseases,LI,METDIS GLYC STOR DIS TYPE I (G,4303
+Liver : Metabolic Diseases,LI,METDIS GLYC STOR DIS TYPE II (,4304
+Liver : Metabolic Diseases,LI,"METDIS HYPERLIPIDEMIA-II, HOMO",4305
+Liver : Metabolic Diseases,LI,METDIS TYROSINEMIA,4306
+Liver : Metabolic Diseases,LI,METDIS PRIMARY OXALOSIS/OXALUR,4307
+Liver : Metabolic Diseases,LI,METDIS MAPLE SYRUP URINE DISEA,4308
+Liver : Metabolic Diseases,LI,METDIS OTHER SPECIFY,4315
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS DRUG/INDUST EXPOSURE,4200
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS TYPE A,4201
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS TYPE B- HBSAG+,4202
+Liver : Non-Cholestatic Cirrhosis,LI,"CIRRHOSIS TYPE NON A, NON B",4203
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS TYPE C,4204
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS TYPE D,4205
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS TYPE B AND C,4206
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS TYPE B AND D,4207
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS CRYPTOGENIC- IDIOPAT,4208
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS CHRONIC ACTIVE HEPAT,4209
+Liver : Non-Cholestatic Cirrhosis,LI,"CIRRHOSIS OTHER, SPECIFY (E.G.",4210
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS AUTOIMMUNE,4212
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS CRYPTOGENIC (IDIOPAT,4213
+Liver : Non-Cholestatic Cirrhosis,LI,CIRRHOSIS FATTY LIVER (NASH),4214
+Liver : Non-Cholestatic Cirrhosis,LI,ALCOHOLIC CIRRHOSIS,4215
+Liver : Non-Cholestatic Cirrhosis,LI,ALCOHOLIC CIRRHOSIS WITH HEPATI,4216
+Liver : Other,LI,NEONATAL HEPATITIS OTHER SPECIF,4265
+Liver : Other,LI,CONGENITAL HEPATIC FIBROSIS,4280
+Liver : Other,LI,CYSTIC FIBROSIS,4285
+Liver : Other,LI,BUDD-CHIARI SYNDROME,4290
+Liver : Other,LI,BENIGN TUMOR HEPATIC ADENOMA,4450
+Liver : Other,LI,BENIGN TUMOR POLYCYSTIC LIVER,4451
+Liver : Other,LI,BENIGN TUMOR OTHER SPECIFY,4455
+Liver : Other,LI,TPN/HYPERALIMENTATION IND LIVER,4500
+Liver : Other,LI,GRAFT VS. HOST DIS SEC TO NON-L,4510
+Liver : Other,LI,TRAUMA OTHER SPECIFY,4520
+Liver : Other,LI,NA Non-HD Followups Only,4597
+Lung & Heart/Lung: Congenital Disease,LU,CONGENITAL OTHER SPECIFY,1600
+Lung & Heart/Lung: Cystic Fibrosis,LU,COMMON VARIABLE IMMUNE DEFICIENC,300
+Lung & Heart/Lung: Cystic Fibrosis,LU,FIBROCAVITARY LUNG DISEASE,302
+Lung & Heart/Lung: Cystic Fibrosis,LU,HYPOGAMMAGLOBULINEMIA,303
+Lung & Heart/Lung: Cystic Fibrosis,LU,SCHWACKMAN-DIAMOND SYNDROME,305
+Lung & Heart/Lung: Cystic Fibrosis,LU,CYSTIC FIBROSIS,1602
+Lung & Heart/Lung: Emphysema/COPD,LU,ALLERGIC BRONCHOPULMONARY ASPERG,100
+Lung & Heart/Lung: Emphysema/COPD,LU,BRONCHOPULMONARY DYSPLASIA,103
+Lung & Heart/Lung: Emphysema/COPD,LU,GRANULOMATOUS LUNG DISEASE,109
+Lung & Heart/Lung: Emphysema/COPD,LU,KARTAGENER'S SYNDROME,111
+Lung & Heart/Lung: Emphysema/COPD,LU,OBSTRUCTIVE LUNG DISEASE,113
+Lung & Heart/Lung: Emphysema/COPD,LU,PRIMARY CILIARY DYSKINESIA,114
+Lung & Heart/Lung: Emphysema/COPD,LU,TUBEROUS SCLEROSIS,116
+Lung & Heart/Lung: Emphysema/COPD,LU,WEGENER'S GRANULOMA - BRONCHIECT,214
+Lung & Heart/Lung: Emphysema/COPD,LU,EHLERS-DANLOS SYNDROME,412
+Lung & Heart/Lung: Emphysema/COPD,LU,INHALATION BURNS/TRAUMA,1603
+Lung & Heart/Lung: Emphysema/COPD,LU,ALPHA - 1 - ANTITRYPSIN DEFICIE,1606
+Lung & Heart/Lung: Emphysema/COPD,LU,COPD/EMPHYSEMA,1607
+Lung & Heart/Lung: Emphysema/COPD,LU,BRONCHIECTASIS,1608
+Lung & Heart/Lung: Emphysema/COPD,LU,LYMPHANGIOLEIOMYOMATOSIS,1611
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,CONSTRICTIVE BRONCHIOLITIS,106
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,WEGENER'S GRANULOMA - RESTRICTIV,213
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,CREST - RESTRICTIVE,215
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,PULMONARY TELENGECTASIA - RESTRI,217
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,SCLERODERMA - RESTRICTIVE,219
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,ALVEOLAR PROTEINOSIS,400
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,AMYLOIDOSIS,401
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,ARDS/PNEUMONIA,402
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,BOOP,403
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,BRONCHOALVEOLAR CARCINOMA (BAC),404
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,CARCINOID TUMORLETS,405
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,CHRONIC PNEUMONITIS OF INFANCY,406
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,EOSINOPHILIC GRANULOMA,413
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,FIBROSING MEDIASTINITIS,416
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,GRAFT-VS-HOST DISEASE (GVHD),417
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,HERMANSKY PUDLAK SYNDROME,418
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,HYPERSENSITIVITY PNEUMONITIS,420
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,IDIOPATHIC PULMONARY HEMOSIDEROS,422
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LYMPHOCYTIC INTERSTITIAL PNEUMON,424
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUPUS,432
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,MIXED CONNECTIVE TISSUE DISEASE,434
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,PARANEOPLASTIC PEMPHIGUS ASSOCIA,437
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,POLYMYOSITIS,438
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,PULMONARY HYALINIZING GRANULOMA,440
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,SJOGREN'S SYNDROME,447
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,SILICOSIS,448
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,SURFACTANT PROTEIN B DEFICIENCY,449
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,TERATOMA,451
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF NON-SPECIFIC,1550
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF RESTRICTIVE,1552
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF ACUTE REJECTION,1553
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF OBSTRUCTIVE,1554
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF PRIMARY GRAFT FA,1555
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF OBLITERATIVE BRO,1556
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF OBLITERATIVE BRO,1557
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,LUNG RE-TX/GF OTHER SPECIFY,1599
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,IDIOPATHIC PULMONARY FIBROSIS /,1604
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,RHEUMATOID DISEASE,1609
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,OCCUPATIONAL LUNG DISEASE OTHER,1610
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,OBLITERATIVE BRONCHIOLITIS (NON,1612
+Lung & Heart/Lung: Idiopathic Pulmonary Fibrosis,LU,PULMONARY FIBROSIS OTHER SPECIF,1613
+Lung & Heart/Lung: Other,LU,CILIARY DYSKINESIS SYNDROME,105
+Lung & Heart/Lung: Other,LU,DYSMOTILE CILIA SYNDROME,107
+Lung & Heart/Lung: Other,LU,LUNG & HEART/LUNG OTHER,160
+Lung & Heart/Lung: Other,LU,PERIPHERAL PULM ARTERY STENOSIS,202
+Lung & Heart/Lung: Other,LU,PULMONARY AV MALFORMATION CONGEN,205
+Lung & Heart/Lung: Other,LU,COLLAGEN VASCULAR DISEASES,407
+Lung & Heart/Lung: Other,LU,CONNECTIVE TISSUE DISEASE,408
+Lung & Heart/Lung: Other,LU,CREST,409
+Lung & Heart/Lung: Other,LU,CUTIS LAXA,410
+Lung & Heart/Lung: Other,LU,DESQUAMATIVE INTERSTITIAL PNEUMO,411
+Lung & Heart/Lung: Other,LU,EOSINOPHILIC GRANULOMATOSIS,414
+Lung & Heart/Lung: Other,LU,EOSINOPHILIC PNEUMONIAL CHRONIC,415
+Lung & Heart/Lung: Other,LU,HISTIOCYTOSIS X,419
+Lung & Heart/Lung: Other,LU,INTERSTITIAL PNEUMONITIS,423
+Lung & Heart/Lung: Other,LU,MACLEOD SYNDROME,433
+Lung & Heart/Lung: Other,LU,PULMONARY LANGERHANS CELL GRANUL,441
+Lung & Heart/Lung: Other,LU,PULMONARY TELENGECTASIA,442
+Lung & Heart/Lung: Other,LU,RESTRICTIVE LUNG DISEASE,444
+Lung & Heart/Lung: Other,LU,SCLERODERMA,446
+Lung & Heart/Lung: Other,LU,SWYER JAMES SYNDROME,450
+Lung & Heart/Lung: Other,LU,TRACHEOPATHIA OSTEOPLASTICA,452
+Lung & Heart/Lung: Other,LU,USUAL INTERSTITIAL PNEUMONITIS,453
+Lung & Heart/Lung: Other,LU,WEGENER'S GRANULOMA,454
+Lung & Heart/Lung: Other,LU,SARCOIDOSIS,1605
+Lung & Heart/Lung: Other,LU,LUNG DISEASE OTHER SPECIFY,1997
+Lung & Heart/Lung: Other,LU,UNKNOWN / CONVERTED RECORDS ONL,1998
+Lung & Heart/Lung: Other,LU,LUNG DISEASE OTHER SPECIFY II,1999
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,CONGENITAL MALFORMATION,200
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,PORTOPULMONARY HYPERTENSION,203
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,PULMONARY THROMBOEMBOLIC DISEASE,206
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,PULMONARY VENO-OCCLUSIVE DISEASE,208
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,PULMONIC STENOSIS,209
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,RIGHT HYPOPLASTIC LUNG,210
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,THROMBOEMBOLIC PULMONARY HYPERTE,212
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,CREST - PULMONARY HYPERTENSION,216
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,PULMONARY TELENGECTASIA - PULMON,218
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,SCLERODERMA - PULMONARY HYPERTEN,220
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,EISENMENGER'S SYN ATRIAL SEPTA,1500
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,EISENMENGER'S SYN VSD,1501
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,EISENMENGER'S SYN PDA,1502
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,EISENMENGER'S SYN MULTI CONGEN,1548
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,EISENMENGER'S SYN OTHER SPECIF,1549
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,PRIMARY PULMONARY HYPERTENSION,1601
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,PULMONARY VASCULAR DISEASE,1614
+Lung & Heart/Lung: Primary Pulmonary Hypertension,LU,SECONDARY PULMONARY HYPERTENSIO,1615
+Lung & Heart/Lung: Retransplant/Graft Failure,HR,HEART/LUNG RE-TX/GF PRIMARY FA,1700
+Lung & Heart/Lung: Retransplant/Graft Failure,LU,LUNG RE-TX/GF OBLITERATIVE BRO,1551
+Missing,.,MISSING,.
+Other,OTHER,OTHER,**OTHER**
+Other Specify,OT,OTHER SPECIFY,999
+Pancreas: Diabetes Mellitus Type I,PA,DIABETES MELLITUS - TYPE I,5001
+Pancreas: Diabetes Mellitus Type II,PA,DIABETES MELLITUS - TYPE II,5002
+Pancreas: Other,PA,DIABETES SECONDARY TO CHRONIC P,5003
+Pancreas: Other,PA,DIABETES SECONDARY TO CYSTIC FI,5004
+Pancreas: Other,PA,PANCREATIC CANCER,5005
+Pancreas: Other,PA,BILE DUCT CANCER,5006
+Pancreas: Other,PA,OTHER CANCERS,5007
+Pancreas: Other,PA,PANCREATECTOMY PRIOR TO PANCREA,5008
+Pancreas: Other,PA,DIABETES MELLITUS - TYPE OTHER,5009
+Pancreas: Retransplant/Graft Failure,PA,RETRANSPLANT/GRAFT FAILURE,5000
